@@ -1,8 +1,28 @@
-# React + Vite
+# UCAB – Cab Booking Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+UCAB is a simple and easy-to-use cab booking application built using the MERN stack (MongoDB, Express.js, React, Node.js).
 
-Currently, two official plugins are available:
+## Features
+- User login and authentication
+- Select pickup and drop location
+- View nearby available cabs
+- Real-time ride tracking
+- Estimated fare calculation
+- Booking history
+- Secure payment options
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack
+- MongoDB
+- Express.js
+- React
+- Node.js
+
+## Project Description
+UCAB helps users quickly book rides and travel comfortably. 
+The application allows users to select cab types, track rides in real-time, 
+and view their ride history. It is inspired by modern ride-hailing platforms 
+and demonstrates full-stack web development using the MERN stack.
+
+## Installation
+
+Frontend:
